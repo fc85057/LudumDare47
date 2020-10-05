@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 186ef6b53b73c004ea9deae975e6ecfd, type: 3}
+  m_Name: Prehistoric
+  m_EditorClassIdentifier: 
+  levelName: Prehistoric
+  background: {fileID: 21300000, guid: b592bed448c152941ac6142b3bf5e376, type: 3}
+  scoreToBeat: 100
+  spawnInterval: 6
+  nextLevel: Egypt
+  enemyPrefab: {fileID: 5305549660582688436, guid: 176a7dde6ac4eef4bb0f9e3c3d7933dd,
+    type: 3}
